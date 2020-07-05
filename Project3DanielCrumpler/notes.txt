@@ -1,0 +1,4 @@
+State what parts of project completed here.
+Successfully completed Part 1 of the project
+Successfully completed Part 2 of the project
+Successfully completed Part 3 of the project
